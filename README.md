@@ -1,0 +1,2 @@
+# wayfarer
+ Idle Game
