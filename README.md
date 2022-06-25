@@ -1,2 +1,2 @@
-# wayfarer
+# wayfarer hahhahh
  Idle Game
